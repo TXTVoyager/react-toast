@@ -1,4 +1,4 @@
-# 🌟 React Toast | @txtvoyager/react-toast
+# React Toast | @txtvoyager/react-toast | Notification
 
 ![npm](https://img.shields.io/npm/v/@txtvoyager/react-toast)
 ![downloads](https://img.shields.io/npm/dt/@txtvoyager/react-toast)
