@@ -73,7 +73,7 @@ You can override styles by targeting the CSS classes:
 
 ```css
 /* Override toast colors */
-.rht-info { background-color: #1e90ff; !important }
+.rht-info { background-color: #1e90ff;}
 .rht-success { background-color: #00c851;}
 .rht-error { background-color: #ff3547;}
 
