@@ -147,3 +147,4 @@ MIT License © 2025 TXTVoyager
 Made with ❤️ for React developers.
 
 ```
+thanks
