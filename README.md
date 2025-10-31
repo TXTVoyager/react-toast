@@ -73,9 +73,9 @@ You can override styles by targeting the CSS classes:
 
 ```css
 /* Override toast colors */
-.rht-info { background-color: #1e90ff; }
-.rht-success { background-color: #00c851; }
-.rht-error { background-color: #ff3547; }
+.rht-info { background-color: #1e90ff; !important }
+.rht-success { background-color: #00c851; !importandt}
+.rht-error { background-color: #ff3547; !important}
 
 /* Change position */
 .rht-container {
@@ -144,7 +144,4 @@ MIT License © 2025 TXTVoyager
 
 ---
 
-Made with ❤️ for React developers.
-
-```
-thanks
+Made with ❤️ for React Developers
